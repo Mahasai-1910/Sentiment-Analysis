@@ -802,7 +802,6 @@ negative_words = {
     "irritated",
     "irritation"
 }
-}
 
 
 def analyze_text(text):
